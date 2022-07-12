@@ -1,0 +1,14 @@
+{
+    "someoneyang.bjtime.name": "Paimon Cloud Time",
+    "someoneyang.bjtime.description": "Get the cloud Beijing Time",
+
+    "someoneyang.bjtime.category": "Paimon Cloud Time",
+
+    "someoneyang.bjtime.bjtimefull": "Full time",
+    "someoneyang.bjtime.bjtimeyea": "Cloud Year",
+    "someoneyang.bjtime.bjtimemon": "Cloud Month",
+    "someoneyang.bjtime.bjtimeday": "Cloud Day",
+    "someoneyang.bjtime.bjtimehou": "Cloud Hour",
+    "someoneyang.bjtime.bjtimemin": "Cloud Minute",
+    "someoneyang.bjtime.bjtimesec": "Cloud Second"
+}

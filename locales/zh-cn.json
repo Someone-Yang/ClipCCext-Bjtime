@@ -1,0 +1,14 @@
+{
+    "someoneyang.bjtime.name": "派蒙云时间",
+    "someoneyang.bjtime.description": "与云服务器同步时间",
+
+    "someoneyang.bjtime.category": "派蒙云时间",
+
+    "someoneyang.bjtime.bjtimefull": "完整时间字符串",
+    "someoneyang.bjtime.bjtimeyea": "云年",
+    "someoneyang.bjtime.bjtimemon": "云月",
+    "someoneyang.bjtime.bjtimeday": "云日",
+    "someoneyang.bjtime.bjtimehou": "云小时",
+    "someoneyang.bjtime.bjtimemin": "云分钟",
+    "someoneyang.bjtime.bjtimesec": "云秒"
+}
